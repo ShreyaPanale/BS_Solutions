@@ -8,6 +8,5 @@ class Solution:
         while(node):
             count+=1
             node=node.next
-
         return count
         
