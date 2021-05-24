@@ -1,7 +1,7 @@
 ## Problem Statement : 
 You are given a singly linked list node containing positive integers. Return the same linked list where every node's next points to the node val nodes ahead. If there's no such node, next should point to null.
 
-**Constraints**
+**Constraints :**
 n ≤ 100,000 where n is the number of nodes in node
 
 ### Example 1
